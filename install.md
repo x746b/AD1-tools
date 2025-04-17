@@ -14,6 +14,7 @@ tar -xvzf ad1tools-1.0.tar.gz
 
 default config:
 ```bash
+cd ad1tools-1.0
 ./configure
 make -j8
 sudo make install
