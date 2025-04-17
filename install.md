@@ -9,7 +9,7 @@ sudo apt install libtool
 download & unpack:
 ```bash
 wget https://github.com/al3ks1s/AD1-tools/releases/download/v1.0/ad1tools-1.0.tar.gz
-tar -xvzf ad1tools-1.0.tar.gz
+tar -xvzf ad1tools-1.0.tar.gz && rm ad1tools-1.0.tar.gz 
 ```
 
 default config:
