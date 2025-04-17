@@ -1,6 +1,6 @@
 Preparation on KALI
 ```bash
-apt update 
+sudo apt update 
 sudo apt install libfuse-dev
 sudo apt install libtool
 ```
